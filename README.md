@@ -6,4 +6,4 @@
     
   ## Practice: tạo một form điền thông tin có tính năng submit gửi dữ liệu đến database và button clear thông tin có ở form.
     - Project xây dựng api và client bằng MERN.
-    ** Demo App **: https://register-internship-test.herokuapp.com/
+      ** Demo App: https://register-internship-test.herokuapp.com/
